@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @dhairya-guddu
-- 👀 I’m interested in Data Analyse
-- 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on Data Analyse Projects
 <!-- 📫 How to reach me ...-->
 
